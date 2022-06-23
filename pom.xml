@@ -1,0 +1,27 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>Karate_Rest_API_Framework</groupId>
+	<artifactId>Karate_Rest_API_Framework</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+
+	<dependencies>
+<!-- https://mvnrepository.com/artifact/com.intuit.karate/karate-junit5 -->
+<dependency>
+    <groupId>com.intuit.karate</groupId>
+    <artifactId>karate-junit5</artifactId>
+    <version>1.2.1.RC2</version>
+</dependency>
+
+
+
+	<!-- https://mvnrepository.com/artifact/com.intuit.karate/karate-core -->
+<!-- https://mvnrepository.com/artifact/com.intuit.karate/karate-core -->
+<dependency>
+    <groupId>com.intuit.karate</groupId>
+    <artifactId>karate-core</artifactId>
+    <version>1.2.1.RC2</version>
+</dependency>
+
+
+	</dependencies>
+</project>
